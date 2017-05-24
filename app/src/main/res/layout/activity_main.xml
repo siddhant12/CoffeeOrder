@@ -32,7 +32,7 @@
             android:text="@string/whipped_check_value"
             android:textAppearance="?android:textAppearanceMedium"
             android:layout_marginLeft="16dp"
-            android:paddingLeft="24dp"
+            android:paddingLeft="25dp"
             />
         <CheckBox
 
