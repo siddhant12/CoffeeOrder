@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CoffeeOrder</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_check_value">Whipped Cream</string>
+    <string name="chocolate_check_value">Chocolate</string>
+    <string name="quantity_text">Quantity</string>
+</resources>
